@@ -14,40 +14,21 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class MohamedIsmail:
-    def __init__(self):
-        self.name        = "Mohamed Ismail"
-        self.role        = "Cloud & DevOps Engineer"
-        self.location    = "Trichy, Tamil Nadu, India"
-        self.degree      = "B.Com (Computer Applications) @ St Joseph College"
-        self.email       = "mohamed.ismail.cloud@gmail.com"
-        self.portfolio   = "https://azure-aspireshowcase.lovable.app"
+👋 Hi! I'm **Mohamed Ismail**, a passionate **Cloud & DevOps Engineer** based in **Trichy, Tamil Nadu, India**.
 
-        self.stack = [
-            "AWS", "Docker", "Kubernetes",
-            "Jenkins", "Terraform", "Linux", "Git"
-        ]
+🎓 Currently pursuing **B.Com (Computer Applications)** at St Joseph College (2024–2027), I'm on a mission to master cloud infrastructure and DevOps automation.
 
-        self.currently_learning = [
-            "Advanced AWS Services (EC2, S3, IAM, VPC)",
-            "Kubernetes Orchestration & Helm",
-            "Terraform Infrastructure as Code",
-            "CI/CD Pipeline Design with Jenkins"
-        ]
+☁️ I'm deeply passionate about **AWS, Docker, Kubernetes, Jenkins, and Terraform** — building scalable, automated cloud environments excites me every single day.
 
-        self.fun_fact = (
-            "I containerize everything — even my to-do list 🐳"
-        )
+🔧 Currently interning as a **DevOps Engineer at Frontier Wox Pvt Ltd**, where I work with Docker containers, Jenkins CI/CD pipelines, and AWS cloud services hands-on.
 
-    def motto(self):
-        return "Automate the boring, build the amazing. ☁️"
+🌱 Always learning, always building — I believe in **automating the boring and building the amazing**.
 
-me = MohamedIsmail()
-print(me.motto())
-```
+🐳 **Fun fact:** I containerize everything — even my to-do list!
+
+📬 Reach me at: **mohamed.ismail.cloud@gmail.com**
 
 <br clear="right"/>
 
