@@ -1,190 +1,197 @@
-You are a world-class GitHub Profile README designer. Read my resume below and generate
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Ismail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Jenkins&descAlignY=62&descSize=16" width="100%"/>
 
-a complete, production-ready GitHub Profile README.md.
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohamed+Ismail+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer+%7C+AWS+%7C+Docker;Building+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Learning+%7C+Building+%7C+Automating+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
 
-Study these profiles for design reference:
+</div>
 
-  github.com/DenverCoder1/DenverCoder1  (typing animation)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-ismail-cloud&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+</div>
 
-  github.com/anmol098/anmol098          (code block about me)
+---
 
-  github.com/trinib/trinib             (dynamic style)
+## About Me
 
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-── EXTRACT FROM RESUME ───────────────────────────────────────────────────────────────
+I'm **Mohamed Ismail**, a Cloud & DevOps Engineer based in Trichy, Tamil Nadu, India.
 
+I am currently pursuing a **B.Com in Computer Applications** at St Joseph College (2024–2027) and interning as a **DevOps Engineer at Frontier Wox Pvt Ltd**, where I work hands-on with Docker, Jenkins CI/CD pipelines, and AWS cloud services.
 
-- Full name, GitHub username, location, email, LinkedIn URL
+My focus is on building reliable, scalable cloud infrastructure and automating deployment workflows. I work with tools including **AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, and Git**, and I am continuously expanding my knowledge in cloud-native technologies and infrastructure as code.
 
-- Role and one-line tagline
+I am driven by a straightforward principle: build systems that scale, automate what can be automated, and keep learning.
 
-- All languages, frameworks, cloud tools, databases, DevOps tools
+- **Email:** mohamed.ismail.cloud@gmail.com
+- **Portfolio:** [azure-aspireshowcase.lovable.app](https://azure-aspireshowcase.lovable.app)
+- **Location:** Trichy, Tamil Nadu, India
 
-- Work experience: companies, roles, dates, locations, impact numbers
+<br clear="right"/>
 
-- Top 3 projects: name, stack, description, key metrics
+---
 
-- Achievements: hackathon wins, competition ranks, LeetCode stats, awards
+## 🛠️ Tech Stack
 
-- Education: degree, college, year, CGPA
+**Languages & Scripting**
 
-- Hobbies or personal details
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
+**Cloud & DevOps**
 
-── BUILD THESE 13 SECTIONS IN ORDER ─────────────────────────────────────────────────
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Version Control & Tools**
 
-1. HERO BANNER — animated gradient wave:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-   https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20
+---
 
-   &height=180&section=header&text=[NAME]&fontSize=42&fontColor=fff
+## 📊 GitHub Stats
 
-   &animation=twinkling&fontAlignY=32&desc=[TAGLINE]&descAlignY=62&descSize=16
+<div align="center">
 
+<a href="https://github.com/mohamed-ismail-cloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-ismail-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/mohamed-ismail-cloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ismail-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
 
-2. TYPING HEADER — use demolab.com only (not herokuapp):
+</div>
 
-   https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28
+---
 
-   &duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750
+## 🔥 Streak Stats
 
-   &lines=[LINE1];[LINE2];[LINE3];[LINE4]
+<div align="center">
 
-   Encode: space=+  |=%7C  #=%23  +=%2B
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamed-ismail-cloud&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com)
 
+</div>
 
-3. CODE-BLOCK ABOUT ME — write in primary language (Java / Python / JS).
+---
 
-   Right-align this GIF:
+## 📈 Activity Graph
 
-   <img align="right" width="380" src="https://raw.githubusercontent.com/
+<div align="center">
 
-   abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-ismail-cloud&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mohamed-ismail-cloud)
 
-   Variables: name, location, degree, stack[], currentlyLearning[], funFact, motto().
+</div>
 
+---
 
-4. TECH BADGES — flat-square, grouped by category:
+## 🏆 Trophy Wall
 
-   Languages | Frameworks | Cloud & DevOps | Databases | Tools
+<div align="center">
 
-   https://img.shields.io/badge/[NAME]-[HEX]?style=flat-square&logo=[SLUG]&logoColor=white
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamed-ismail-cloud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mohamed-ismail-cloud)
 
+</div>
 
-5. GITHUB STATS — vercel, dark background:
+---
 
-   https://github-readme-stats.vercel.app/api?username=[u]&show_icons=true
+## 💼 Work Experience
 
-   &theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+<details>
+<summary><b>🏢 Frontier Wox Pvt Ltd — DevOps Engineer Intern &nbsp;|&nbsp; 2026 – Present &nbsp;|&nbsp; Trichy, Tamil Nadu, India</b></summary>
 
-   &bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10
+<br/>
 
+> ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-6. TOP LANGUAGES — compact, same vercel domain:
+- 🐳 Working hands-on with **Docker containers** to deploy and manage cloud-based application environments
+- ⚙️ Building and configuring **Jenkins CI/CD pipelines** to automate deployment workflows end-to-end
+- ☁️ Exploring and applying **AWS cloud services** including compute, storage, and networking fundamentals
+- 🤝 Collaborating with engineering teams on **cloud infrastructure projects**, applying Linux administration and Git version control daily
 
-   https://github-readme-stats.vercel.app/api/top-langs/?username=[u]&layout=compact
+</details>
 
-   &theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd
+---
 
-   &text_color=c9d1d9&langs_count=8&border_radius=10
+## 🚀 Featured Projects
 
-   Place Stats and Languages side by side using two <a> tags inside <div align="center">.
+<div align="center">
 
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [**🐳 Dockerized Student Management Portal**](https://azure-aspireshowcase.lovable.app) | Docker · Jenkins · GitHub | Containerized a full student management web app for consistent deployment across environments; configured a Jenkins CI/CD pipeline for automated build & release; managed full source lifecycle with Git & GitHub |
 
-7. STREAK STATS — use demolab.com only (not herokuapp):
+</div>
 
-   https://streak-stats.demolab.com?user=[u]&theme=tokyonight-duo&hide_border=true
+---
 
-   &background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD
+## 🎯 Achievements & Certifications
 
-   &sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9
+<div align="center">
 
-   &stroke=0D1117&border_radius=10
+| 🏅 | Achievement | Details |
+|:--:|:------------|:--------|
+| 📜 | **AWS Cloud Practitioner Essentials** | Completed via Udemy — foundational AWS architecture, services & pricing |
+| 🎓 | **Cloud Beginner Certificate** | Issued by Expertisor Academy — cloud fundamentals & best practices |
+| ☁️ | **DevOps Internship** | Active DevOps Engineer Intern at Frontier Wox Pvt Ltd (2026 – Present) |
+| 🐳 | **Live Cloud Portfolio** | Deployed personal showcase at [azure-aspireshowcase.lovable.app](https://azure-aspireshowcase.lovable.app) |
 
+</div>
 
-8. ACTIVITY GRAPH — vercel:
+---
 
-   https://github-readme-activity-graph.vercel.app/graph?username=[u]&theme=tokyo-night
+## 🎓 Education
 
-   &bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true
+<div align="center">
 
+| Degree | Institution | Year | Stream |
+|:-------|:------------|:----:|:-------|
+| B.Com — Computer Applications | St Joseph College, Trichy | 2024 – 2027 | Commerce with Computer Applications |
+| Higher Secondary Education | MEASI Matric School | 2022 – 2024 | Higher Secondary |
 
-9. TROPHY WALL — vercel, no-frame + no-bg (prevents broken images):
+</div>
 
-   https://github-profile-trophy.vercel.app/?username=[u]&theme=tokyonight
+---
 
-   &no-frame=true&no-bg=true&row=1&column=7&margin-w=4
+## 🧱 Currently Learning
 
+```
+🧱 AWS Deep Dive       → EC2, S3, IAM, VPC, CloudWatch, Route 53
+🐳 Kubernetes          → Pod scheduling, Helm charts, Services, Ingress
+📦 Terraform IaC       → Providers, Modules, State management, Workspaces
+🔁 CI/CD Pipelines     → Jenkins declarative pipelines, GitHub Actions
+🐧 Linux Admin         → Shell scripting, Cron jobs, System monitoring
+```
 
-10. WORK EXPERIENCE — one <details><summary> block per role.
+---
 
-    Summary: company + role + dates + location.
+## 📬 Connect with Me
 
-    Inside: blockquote of tech tags, then 3-4 bullet points with impact numbers.
+<div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.ismail.cloud@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://azure-aspireshowcase.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamed-ismail-cloud)
 
-11. FEATURED PROJECTS — centred markdown table.
+</div>
 
-    Columns: Project (linked) | Stack | Highlights with metrics. One row per project.
+---
 
+<div align="center">
 
-12. ACHIEVEMENTS — centred markdown table.
+*"Automate the boring, build the amazing. ☁️"*
 
-    Columns: emoji | Achievement | Details with exact numbers from the resume.
+</div>
 
-
-13. EDUCATION + CURRENTLY LEARNING + FOOTER WAVE.
-
-    Education: centred table — Degree | Institution | Year | Score.
-
-    Currently Learning: fenced code block with arrow format (e.g. 🧱 Topic → Subtopics).
-
-    Footer: https://capsule-render.vercel.app/api?type=waving&color=gradient
-
-    &customColorList=6,11,20&height=120&section=footer&animation=twinkling
-
-
-── URL RULES — follow exactly ────────────────────────────────────────────────────────
-
-
-Never use herokuapp.com — all Heroku free-tier URLs are permanently dead.
-
-
-  Typing SVG    → readme-typing-svg.demolab.com
-
-  Streak        → streak-stats.demolab.com
-
-  Stats / Langs → github-readme-stats.vercel.app
-
-  Trophies      → github-profile-trophy.vercel.app
-
-  Activity      → github-readme-activity-graph.vercel.app
-
-  Banner/Footer → capsule-render.vercel.app
-
-  View counter  → komarev.com/ghpvc
-
-  Badges        → img.shields.io
-
-
-── OUTPUT RULES ──────────────────────────────────────────────────────────────────────
-
-
-- Replace every [u] and [username] with the actual GitHub username from the resume.
-
-- bg_color=0d1117 on all stats cards.
-
-- Theme: tokyonight / tokyonight-duo throughout.
-
-- Output full raw README.md — no code fences wrapping the output, nothing omitted.
-
-
-── MY RESUME ─────────────────────────────────────────────────────────────────────────
-
-
-[PASTE YOUR FULL RESUME TEXT HERE]
-
-
-── END OF PROMPT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
